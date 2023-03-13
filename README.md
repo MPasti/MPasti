@@ -8,7 +8,8 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pasti-7278b6253/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llPasti&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&theme=synthwave)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=compact&theme=prussian"/>
 ## Tecnologias que trabalho no dia a dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
