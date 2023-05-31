@@ -9,7 +9,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&theme=transparent))
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=compact&theme=synthwave"/>
 
 ## Tecnologias que trabalho no dia a dia:
