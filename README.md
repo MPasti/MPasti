@@ -38,8 +38,8 @@
 
 ## Projetos em destaque
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=Traume-Game-TCC)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=primeiro-app-react)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=Traume-Game-TCC)](https://github.com/MPasti/Traume-Game-TCC)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=primeiro-app-react)](https://github.com/MPasti/primeiro-app-react)
  
 </div>
 
