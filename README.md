@@ -14,7 +14,6 @@
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MPasti&theme=dracula" alt="MPasti" />
 </p>
 
-
 ## Tecnologias que trabalho:
 <div style="display: inline_block" align="center"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
