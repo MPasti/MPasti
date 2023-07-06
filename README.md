@@ -4,7 +4,6 @@
 - Bacharelado em Ciência da Computação, UNI-FACEF (2023-2026)
 ### Contato
 
-
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pastimatheus/)
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PastiMatheus)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pasti-7278b6253/)
@@ -14,7 +13,6 @@
   <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&locale=en&theme=dracula" alt="MPasti"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MPasti&theme=dracula" alt="MPasti" />
 </p>
-
 
 ## Tecnologias que trabalho:
 <div style="display: inline_block" align="center"><br/>
