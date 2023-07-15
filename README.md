@@ -1,5 +1,4 @@
 ## Olá, sou Matheus Soares Pasti 🖐
-## Desenvolvedor Front-End na empresa Orgsystem Software
 ## Formação:
 - Técnico em Desenvolvimento de Sistemas, ETEC Dr. Julio Cardoso (2020-2022)
 - Bacharelado em Ciência da Computação, UNI-FACEF (2023-2026)
