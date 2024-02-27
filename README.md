@@ -9,7 +9,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pasti-7278b6253/)
 <br></br>
  <p align="center">
-  <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&locale=en&theme=dracula" alt="MPasti"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MPasti&theme=dracula" alt="MPasti" />
 </p>
 
