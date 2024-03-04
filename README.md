@@ -27,6 +27,7 @@
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
  <img align="center" alt="Unity" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <br></br>
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=donut)](https://github.com/anuraghazr/github-readme-stats)
 
 ## O que estou aprendendo
