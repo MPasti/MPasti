@@ -1,4 +1,5 @@
 ## Olá, sou Matheus Soares Pasti 🖐
+- 👨‍💻 Atuo como Estagiário em Desenvolvimento Web pela OrgSystem Software (06/2023 - atualmente)  
 ## Formação:
 - Técnico em Desenvolvimento de Sistemas, ETEC Dr. Julio Cardoso (2020-2022)
 - Bacharelado em Ciência da Computação, UNI-FACEF (2023-2026)
