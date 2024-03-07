@@ -35,9 +35,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=donut)](https://github.com/anuraghazr/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MPasti)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## O que estou/desejo aprender
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
