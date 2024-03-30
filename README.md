@@ -4,7 +4,6 @@
 - Técnico em Desenvolvimento de Sistemas, ETEC Dr. Julio Cardoso (2020-2022)
 - Bacharelado em Ciência da Computação, UNI-FACEF (2023-2026)
 ### Contato
-
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pastimatheus/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pasti-7278b6253/)
 [![wakatime](https://wakatime.com/badge/user/018e1a1d-df1d-4233-8782-8c4217950414.svg)](https://wakatime.com/@018e1a1d-df1d-4233-8782-8c4217950414)
