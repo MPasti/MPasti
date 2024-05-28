@@ -1,5 +1,6 @@
 ## Olá, eu sou o Matheus 🖐
-- 👨‍💻 Atuo como Estagiário em Desenvolvimento Web pela OrgSystem Software (06/2023 - atualmente)  
+- 👨‍💻 Atuo como Estagiário pela (ꓭ/ CodeBit
+- Já atuei como Estagiário em Desenvolvimento Front-End pela OrgSystem Software (01/06/2023 - 24/05/2024)  
 ## Formação:
 - Técnico em Desenvolvimento de Sistemas, ETEC Dr. Julio Cardoso (2020-2022)
 - Bacharelado em Ciência da Computação, UNI-FACEF (2023-2026)
