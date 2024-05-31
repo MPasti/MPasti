@@ -38,7 +38,7 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=donut" width="400" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/@MPasti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MPasti" width="400" />
 </a>
 </div>
