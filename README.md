@@ -34,10 +34,15 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=donut)](https://github.com/anuraghazr/github-readme-stats)
+<div style="display: flex; justify-content: center;">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=donut" width="400" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MPasti" width="400" />
 </a>
+</div>
+
 ## O que estou aprendendo/desejo aprender
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
