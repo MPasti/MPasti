@@ -61,5 +61,5 @@
 ## Projetos em destaque
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=Traume-Game-TCC)](https://github.com/MPasti/Traume-Game-TCC)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=nwl-expert-notes)](https://github.com/MPasti/nwl-expert-notes)
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MPasti/MPasti/blob/output/github-contribution-grid-snake.svg)
 </div>
