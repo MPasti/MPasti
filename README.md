@@ -62,6 +62,6 @@
 
 ## Projetos em destaque
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=Traume-Game-TCC)](https://github.com/MPasti/Traume-Game-TCC)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=nwl-expert-notes)](https://github.com/MPasti/nwl-expert-notes)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=instituto-joao-de-barro)](https://github.com/MPasti/instituto-joao-de-barro)
   
 </div>
