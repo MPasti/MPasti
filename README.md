@@ -13,6 +13,20 @@
     <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&locale=en&theme=dracula" alt="MPasti"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MPasti&theme=dracula" alt="MPasti" />
 </p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MPasti/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MPasti/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/MPasti/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## Tecnologias que trabalho:
 
