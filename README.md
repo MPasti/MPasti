@@ -9,7 +9,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pasti-7278b6253/)
 [![wakatime](https://wakatime.com/badge/user/018e1a1d-df1d-4233-8782-8c4217950414.svg)](https://wakatime.com/@018e1a1d-df1d-4233-8782-8c4217950414)
 <br></br>
-
  <p align="left">
     <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&locale=en&theme=dracula" alt="MPasti"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MPasti&theme=dracula" alt="MPasti" />
