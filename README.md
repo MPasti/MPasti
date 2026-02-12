@@ -1,5 +1,5 @@
 ## Olá, eu sou o Matheus 🖐
-👨‍💻 Atualmente trabalho como Desenvolvedor FullStack de Nível 1 na (ꓭ/ CodeBit (10/12/2024 - Atualmente)
+👨‍💻 Atualmente trabalho como Desenvolvedor FullStack de Nível 2 na (ꓭ/ CodeBit (10/12/2024 - Atualmente)
  
 - Atuei como Estagiário em Desenvolvimento FullStack pela (ꓭ/ CodeBit (27/05/2024 - 10/12/2024)
 - Já atuei como Estagiário em Desenvolvimento Front-End pela OrgSystem Software (01/06/2023 - 24/05/2024)  
