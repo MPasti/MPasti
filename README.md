@@ -11,24 +11,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pasti-7278b6253/)
 [![wakatime](https://wakatime.com/badge/user/018e1a1d-df1d-4233-8782-8c4217950414.svg)](https://wakatime.com/@018e1a1d-df1d-4233-8782-8c4217950414)
 <br></br>
- <p align="left">
-    <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=MPasti&show_icons=true&locale=en&theme=dracula" alt="MPasti"/>
-  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MPasti&theme=dracula" alt="MPasti" />
-</p>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MPasti/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MPasti/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/MPasti/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ## Tecnologias que trabalho:
 
@@ -59,15 +41,6 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<div style="display: flex; justify-content: center;">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPasti&layout=donut" width="400" />
-</a>
-<a href="https://wakatime.com/@MPasti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MPasti" width="400" />
-</a>
-</div>
-
 ## O que tenho interesse em aprender
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -79,7 +52,5 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## Projetos em destaque
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=Traume-Game-TCC)](https://github.com/MPasti/Traume-Game-TCC)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPasti&repo=instituto-joao-de-barro)](https://github.com/MPasti/instituto-joao-de-barro)
   
 </div>
